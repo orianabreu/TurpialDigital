@@ -86,7 +86,7 @@ export default function ConsultancyForm({setFormIsOpen, setSnackBarIsOpen}) {
                         id='filled-size-small'
                         variant='filled'
                         size='small'
-                        label='Teléfono'
+                        label='Teléfono (con el código de tu país)'
                         isMobile={isMobile}
                         name='phone'
                         vale={values.phone}
