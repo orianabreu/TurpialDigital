@@ -5,7 +5,7 @@ import * as S from './styles';
 import HomeVideo from '../../assets/video/videohome.mp4';
 import HomeImage from '../../assets/img/mobilehomeimg.jpg';
 import useMediaQuery from '@material-ui/core/useMediaQuery';
-
+import Typed from "react-typed";
 
 export default function Home(){
 
@@ -28,7 +28,21 @@ export default function Home(){
 
             <S.TextOverlay isMobile={isMobile}>
                 <S.HomeText isMobile={isMobile}>
-                    Hacemos crecer tu negocio con marketing creativo
+                    Hacemos crecer tu negocio con marketing {''}
+                    <Typed
+                        strings={[
+                        "creativo",
+                        "estratégico", 
+                        "promocional",
+                        "interactivo",
+                        "digital"
+                        ]}
+                        typeSpeed={80}
+                        backSpeed={70}
+                        backDelay={1000}
+                        loop
+                        style={{color:'#fdcf08'}}
+                    />
                 </S.HomeText>
                 <Button styleType='callToAction' isMobile={isMobile}>QUIERO AUMENTAR MIS VENTAS</Button>
             </S.TextOverlay>
