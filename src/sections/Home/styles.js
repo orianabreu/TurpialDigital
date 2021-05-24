@@ -47,7 +47,7 @@ export const TextOverlay = styled.div`
 
 export const HomeText = styled.p`
     font-family: ${({theme})=>theme.fonts.primary};   
-    font-size: ${({theme, isMobile})=> isMobile? theme.scale.h2 :`${theme.scale.base*10}px`};
+    font-size: ${({theme, isMobile})=> isMobile? `${theme.scale.base*4}px` :`${theme.scale.base*10}px`};
     font-weight: 800;
     color: ${({theme})=> theme.palette.light};   
     margin-bottom: ${({theme})=>theme.scale.base*10}px; 
