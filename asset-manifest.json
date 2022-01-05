@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/TurpialDigital/static/css/main.394e6be3.chunk.css",
+    "main.js": "/TurpialDigital/static/js/main.4f057039.chunk.js",
+    "main.js.map": "/TurpialDigital/static/js/main.4f057039.chunk.js.map",
+    "runtime-main.js": "/TurpialDigital/static/js/runtime-main.f880b58d.js",
+    "runtime-main.js.map": "/TurpialDigital/static/js/runtime-main.f880b58d.js.map",
+    "static/js/2.832cb474.chunk.js": "/TurpialDigital/static/js/2.832cb474.chunk.js",
+    "static/js/2.832cb474.chunk.js.map": "/TurpialDigital/static/js/2.832cb474.chunk.js.map",
+    "static/js/3.ef622c16.chunk.js": "/TurpialDigital/static/js/3.ef622c16.chunk.js",
+    "static/js/3.ef622c16.chunk.js.map": "/TurpialDigital/static/js/3.ef622c16.chunk.js.map",
+    "index.html": "/TurpialDigital/index.html",
+    "static/css/main.394e6be3.chunk.css.map": "/TurpialDigital/static/css/main.394e6be3.chunk.css.map",
+    "static/js/2.832cb474.chunk.js.LICENSE.txt": "/TurpialDigital/static/js/2.832cb474.chunk.js.LICENSE.txt",
+    "static/media/branding.02d18711.jpg": "/TurpialDigital/static/media/branding.02d18711.jpg",
+    "static/media/iphone.047cdf4f.png": "/TurpialDigital/static/media/iphone.047cdf4f.png",
+    "static/media/knowus.8c99377f.png": "/TurpialDigital/static/media/knowus.8c99377f.png",
+    "static/media/logo-web.3ddc69aa.png": "/TurpialDigital/static/media/logo-web.3ddc69aa.png",
+    "static/media/mobilehomeimg.218183a5.jpg": "/TurpialDigital/static/media/mobilehomeimg.218183a5.jpg",
+    "static/media/socialmedia.4f7cc8dc.jpg": "/TurpialDigital/static/media/socialmedia.4f7cc8dc.jpg",
+    "static/media/videohome.df056aa1.mp4": "/TurpialDigital/static/media/videohome.df056aa1.mp4",
+    "static/media/web.0a75e8e6.jpg": "/TurpialDigital/static/media/web.0a75e8e6.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f880b58d.js",
+    "static/js/2.832cb474.chunk.js",
+    "static/css/main.394e6be3.chunk.css",
+    "static/js/main.4f057039.chunk.js"
+  ]
+}
